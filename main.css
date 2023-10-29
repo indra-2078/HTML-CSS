@@ -1,0 +1,355 @@
+body{
+    background-image:url("https://wallpapercave.com/wp/wp2717532.jpg");
+    overflow-x: hidden;
+    
+    background-size: 1010px 500px;
+    background-repeat: no-repeat;
+    padding:0;
+    margin:0;
+    
+}
+
+
+#mydiv{
+    font-size: 50px;
+    font-family: 'Limelight',cursive;
+    position: relative;
+    top:-130px;
+    left:-700px
+}
+#mydiv2{
+    font-size: 20px;
+    position: relative;
+    left:-600px;
+    top:-100px;
+    font-family: 'Nova',cursive;
+    border:2px 2px solid red;
+    color: blue;
+}
+#gtav{
+    position: relative;
+    top:50px;
+    left:-240px;
+    font-size:40px
+}
+#gta5{
+    width:300px;
+    height:400px
+}
+#fh{
+    position: relative;
+    top:50px;
+    left:-60px;
+    font-size:40px
+}
+
+#fh4{
+    width:300px;
+    height:400px;
+    position:relative;
+    top:-1px;
+    left:250px;
+}
+#myid1{
+    font-size: 40px;
+    font-family: 'Limelight', cursive;
+    position: relative;
+    top:-170px;
+    left:-300px;
+    color:blue
+}
+#myid2{
+    width:1010px;
+    height:500px;
+    background-color: coral;
+    position: relative;
+    left:-705px;
+    top:-140px
+}
+.h1{
+    position: relative;
+    top: 250px;
+    text-align:center
+}
+.main{
+    position:absolute;
+    top:580px;
+    width:350px;
+    height:360px;
+    background-color: pink;
+}
+#pro{
+    position: relative;
+    left:50px;
+    top:-25px
+}
+#img{
+    position: relative;
+    top:30px
+}
+#np{
+    position: relative;
+    left:-12px
+}
+#img1{
+    position: relative;
+    top:50px
+}
+#img2{
+    position: relative;
+    left:150px;
+    top:-199px
+}
+#div9{
+    position: relative;
+    top:25px
+}
+#ram{
+    position: relative;
+    left:200px;
+    top:-248px;
+}
+#img3{
+    margin-left: 5px;
+    position: relative;
+    top:20px
+}
+#gb{
+    position:relative;
+    left:165px;
+    top:-225px
+
+
+}
+#av{
+    position: relative;
+    left:60px;
+    top:-30px
+}
+#avn{
+    position: relative;
+    left:35px;
+    top:-1px
+}
+#div5{
+    position:relative ;
+    top:-20px;
+    left:45px
+}
+#u{
+    position:relative ;
+    top:-48px;
+    left:15px
+}
+h2{
+    text-align: center;
+    font-family: 'Nova', cursive;
+}
+.mainn{
+    position:relative;
+    margin-left: -8px;
+    top:378px;
+    width:350px;
+    left:360px;
+    height:360px;
+    background-color: skyblue;
+}
+.mainnn{
+    position:absolute;
+    margin-left: -16px;
+    top:580px;
+    width:300px;
+    left:720px;
+    height:360px;
+    background-color: orange;
+}
+#div33{
+    color:blue;
+    font-size: 60px;
+    position:relative;
+    top:150px;
+    margin-left: 15px;
+    font-family: 'Limelight', cursive;
+    align-content: center;
+}
+#but{
+    position:relative;
+    top:80px;
+    left:-300px;
+    width:250px;
+    height:50px;
+    border-radius: 30px;
+    background-color: blue;
+    font-family: 'Nova', cursive;
+    font-size: 16px;
+    align-content: center;
+}
+#div99{
+    font-size: 30px;
+    font-family: 'Nova', cursive;
+}
+span{
+    font-family: 'Nova', cursive;
+}
+#id1{
+    color:blue;
+    font-family: 'Limelight', cursive;
+    font-size: 55px;
+    position: relative;
+    top:-400px;
+    left:-606px
+}
+.box{
+    color:red
+}
+#id2{
+    position: relative;
+    right:800px;
+    width:1100px;
+    top:50px;
+    height:490px;
+    
+}
+#u1{
+    position: relative;
+    left:50px;
+    
+}
+#but:hover{
+    width:300px;
+    background-color:pink;
+    color: blue;
+    font-size:20px;
+    text-shadow: 3px 3px 4px white;
+}
+#head{
+   
+    width:1007px;
+    height:65px;
+    background-color:black;
+    position:absolute;
+    
+    box-shadow: 3px 3px 3px whitesmoke;
+    
+}
+#img5{
+    position: relative;
+    top:65px;
+
+}
+#wei{
+    position: relative;
+    top:15px;
+    left:50px
+}
+#img6{
+    position: relative;
+    left:160px
+}
+#eth{
+    position: relative;
+    left:210px;
+    top:-50px
+}
+
+
+#y{
+    position: relative;
+    left:160px;
+    top:-26px;
+}
+#kg{
+    position: relative;
+    top:40px;
+    left:5px
+}
+#head:hover{
+    box-shadow: 4px 4px 4px whitesmoke;
+}
+#img4{
+    position: relative;
+    top:45px
+}
+#usb{
+    position: relative;
+    left:50px
+     
+}
+#usbn{
+    position: relative;
+     top:20px;
+     left:20px
+}
+h1{
+    font-size:50px;
+    position:relative;
+    top:-32px;
+    margin-left: 10px;
+    text-shadow: 2px 2px  gray;
+    cursor:default;
+    color:blue;
+    font-family: 'Limelight', cursive;
+
+    
+}
+.c1{
+    font-size:50px;
+    position:relative;
+    top:-0.9px;
+    margin-left: 10px;
+    text-shadow: 2px 2px  gray;
+    cursor:default;
+    color:red
+}
+.c2{
+    position:relative;
+    left:600px;
+    top:-107px;
+    font-size:23px;
+    font-family: 'Limelight', cursive;
+    color:blue;
+    cursor: default;
+    text-shadow: 1px 2px gray;
+}
+#but2{
+    width:250px;
+    height:50px;
+    border-radius: 30px;
+    background-color: blue;
+    font-family: 'Nova', cursive;
+    font-size: 16px;
+    position: relative;
+    right:-30px;
+    height:70px;
+}
+#myid{
+    margin-left:198px;
+    width:1001px;
+    height:500px;
+    background-color: coral;
+    position:relative;
+    left:-900px;
+    top:-180px;
+    font-size:25px;
+    
+}
+#but2:hover{
+    width:300px;
+    background-color:pink;
+    color: blue;
+    font-size:20px;
+    text-shadow: 3px 3px 4px white;
+}
+.c3{
+    position:relative;
+    left:700px;
+    top:-107px;
+    font-size:23px;
+    font-family: 'Nova Slim', cursive;
+    color:blue;
+    cursor: default;
+    text-shadow: 1px 2px gray;
+}
+.c4{
+    color:red
+}
